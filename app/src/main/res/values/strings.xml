@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BenchMarkApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings">About Us</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="button">Button</string>
+    <string name="teststring">Lorem ipsum dolor sit amet, falli graeco consequat ex nec, postea audiam aliquam mel id. Eos aliquid adipisci sententiae et. Audire numquam repudiare pri in, vel ea inani tempor. Sed et mundi periculis, per doming sapientem te.
+
+Delicata constituam ad cum, agam aperiam lucilius his at. Duo ad fabulas habemus alienum, cibo denique delectus in qui, cu usu percipit sapientem. Quem modus sed no, eu aperiam vocibus duo. At soluta integre qui, eros sanctus nam no. Sed case delicata ut. Ut clita dolore consequuntur sea.
+
+Pri facete oportere iudicabit an. Alii veritus eam in. Eos quem ferri ex, eum decore assueverit et. Eos dicam apeirian eu. Vim ea quis apeirian, his at fabellas iudicabit scripserit.
+
+Ferri semper sit cu, choro commune nam no. Saepe instructior qui at, reque iuvaret dolores per ad. Duo graece corpora no, eam ex labitur patrioque democritum, ne sed albucius phaedrum. Idque mediocrem hendrerit eum te. Ea vix quidam possit periculis, cu affert prodesset nec, rebum docendi lobortis ne has. Labitur appareat placerat no est, ea nam tempor conclusionemque.
+
+Graecis prodesset est ea, dicta integre repudiare ad has. Equidem habemus albucius et duo, facilisi reprimique has ei, sea eu sint delectus singulis. Nec vero audire ea. Sea ne elit corrumpit, in eius assentior adolescens sea.</string>
+    <string name="app">BenchMark App
+    \n \u0020 \u0020 for Android</string>
+    <string name="version">Version 1.0</string>
+    <string name="free">BenchMark App is a free  Software.</string>
+    <string name="thank">Thank You for using my Software.</string>
+    <string name="contact">You can contact me on:</string>
+    <string name="email">jagtappiyush13@gmail.com</string>
+</resources>
